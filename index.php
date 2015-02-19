@@ -17,6 +17,9 @@ session_start(); //так надо
 </ul>
 </div>
 <br>
+
+цуацуа
+цуа
 <form method=POST action="system/ad.php">
 <div class="cont">
 <h1>Данные плательщика</h1>

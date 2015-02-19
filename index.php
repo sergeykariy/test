@@ -19,8 +19,6 @@ session_start(); //так надо
 <br>
 <form method=POST action="system/ad.php">
 <div class="cont">
-
-
 <h1>Данные плательщика</h1>
 <table>
 <tr>
